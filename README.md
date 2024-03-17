@@ -8,4 +8,6 @@
 
 - how to reach me: **<a href="mailto:jtof-dev@pm.me" target="_blank">jtof-dev@pm.me</a>**
 
+<br>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtof-dev&show_icons=true&locale=en&layout=compact" alt="jtof-dev" />
