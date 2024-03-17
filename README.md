@@ -1,5 +1,5 @@
 <h1 align="center">hi, I'm Andy!</h1>
-<h3 align="center">I'm an electrical engineering college student learning programming</h3>
+<h3 align="center">I'm an electrical engineering college student teaching myself programming</h3>
 
 
 - I’m currently working on **<a href="https://github.com/jtof-dev/rustdoc" target="_blank">rusdoc</a>**, a markdown editor written in rust
