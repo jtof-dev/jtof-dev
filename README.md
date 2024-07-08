@@ -6,7 +6,7 @@
 
 - for more info about me, check out my website: **<a href="https://jtof.dev" target="_blank">jtof.dev</a>**
 
-- how to reach me: **<a href="mailto:jtof-dev@pm.me" target="_blank">jtof-dev@pm.me</a>**
+- how to reach me: **<a href="mailto:contact@jtof.dev" target="_blank">contact@jtof.dev</a>**
 
 <br>
 
